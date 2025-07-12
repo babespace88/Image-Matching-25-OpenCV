@@ -6,6 +6,8 @@ Dataset ---> https://www.kaggle.com/competitions/image-matching-challenge-2025
 
 Model --->  ALIKED and LightGlue, and DINO , on GPU. 
 
+Notebook Solution ---> https://github.com/babespace88/Image-Matching-25-OpenCV/blob/main/image-matching-challenge-2025.ipynb
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
